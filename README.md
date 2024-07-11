@@ -30,20 +30,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - My SQL 5.5.62
 - Configure Permissions, Install OS ticket
 
-- 
+
 ![image](https://github.com/Bolo-Felix/osticket-prereqs/assets/175157664/7324dcee-0a3e-4a01-8db0-8dcaa9e76fbe)
 
 <h2>Installation Steps</h2>
 
 - creating  Azure Tenant and Subscription
    
--creating resources in azure
+- creating resources in azure
 
--Azure Virtual networks and subnets
+- Azure Virtual networks and subnets
 
--Azure Virtual machines (windows and Linux (Ubuntu)
+- Azure Virtual machines (windows and Linux (Ubuntu)
 
--Azure Network Security groups (Firewall resource)
+- Azure Network Security groups (Firewall resource)
 
 
 <p>
