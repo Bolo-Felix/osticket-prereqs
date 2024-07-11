@@ -22,13 +22,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable Internet Information Services (IIS)
+- PHP Manager for IIS
+- Web perf installer
+- Rewrite module
+- Install Microsoft visual C++ redistibutable
+- My SQL 5.5.62
+- Configure Permissions, Install OS ticket
+
+- 
+![image](https://github.com/Bolo-Felix/osticket-prereqs/assets/175157664/7324dcee-0a3e-4a01-8db0-8dcaa9e76fbe)
 
 <h2>Installation Steps</h2>
+
+- creating  Azure Tenant and Subscription
+   
+-creating resources in azure
+
+-Azure Virtual networks and subnets
+
+-Azure Virtual machines (windows and Linux (Ubuntu)
+
+-Azure Network Security groups (Firewall resource)
+
 
 <p>
 <img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
